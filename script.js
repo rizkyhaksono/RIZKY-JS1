@@ -3,7 +3,7 @@
  * @Kelas Web B Afternoon
  */
 
-// ✨ if,else,nested ifs
+// ✨ if, else, nested ifs
 function if_else(jam) {
   if (jam < 18) {
     salam = "Selamat Pagi";
@@ -57,15 +57,16 @@ function do_while() {
 
   do {
     i++;
-    console.log((text += "Bilangan ke " + i));
+    console.log((text += " Bilangan ke " + i));
   } while (i < 10);
 }
 
 // ✨ function
 function while_statement() {
+  let i;
   while (i < 10) {
     i++;
-    console.log("Bilangan ke" + i);
+    console.log("Angka ke" + i);
   }
 }
 
