@@ -9,3 +9,7 @@ Ini adalah repository untuk tugas [Infinite Learning](https://www.infinitelearni
 - ✨ for statement
 - ✨ while, do while
 - ✨ function
+
+---
+
+[LICENSE MIT](https://github.com/rizkyhaksono/RIZKY-JS1/blob/main/LICENSE)
