@@ -6,7 +6,7 @@ Ini adalah repository untuk tugas [Infinite Learning](https://www.infinitelearni
 
 - ✨ if,else,nested if
 - ✨ switch case
-- ✨ for statement
+- ✨ for statement,forEach
 - ✨ while, do while
 - ✨ function
 
