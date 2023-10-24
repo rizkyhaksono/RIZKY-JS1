@@ -50,6 +50,15 @@ function for_statement() {
   }
 }
 
+// ✨ forEach()
+function forEach() {
+  const fruits = ["apple", "orange", "cherry"];
+
+  fruits.forEach((item, index) {
+    console.log(index + ": " + item); 
+  });
+}
+
 // ✨ while, do while
 function do_while() {
   let text = "";
@@ -76,6 +85,8 @@ console.log(if_else(10));
 console.log(switch_case("Minggu"));
 // for
 console.log(for_statement());
+// forEach
+console.log(forEach());
 // do while
 console.log(do_while());
 // while
